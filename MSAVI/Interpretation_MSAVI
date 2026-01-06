@@ -1,0 +1,16 @@
+Modified soil adjusted vegetation index (MSAVI) is like NDVI but more stable when soil is visible (it reduces soil background effect). 
+So it’s very useful for sparse vegetation / pasture / semi-bare areas.
+
+Based on the study areas of the map, we can concur
+
+Gakh - Large parts are green (high MSAVI) → denser and more continuous vegetation cover. 
+The orange/red zones are mostly in the southern/lower parts and along some linear features, 
+indicating sparser vegetation or more exposed soil.
+
+Yardimli - More orange/red overall with patchy green areas → vegetation is generally more 
+sparse and mixed with bare soil/rock, which is typical for rugged terrain and drier pasture conditions.
+The greener patches likely correspond to moister valleys / better pasture pockets / north-facing slopes.
+
+MSAVI highlights stronger, more continuous vegetation cover in Gakh, while Yardimli shows more widespread 
+low-to-moderate MSAVI values, indicating sparser vegetation and greater soil/background influence typical 
+of mountain pastures.

@@ -1,0 +1,43 @@
+
+# Sentinel-2 Vegetation Indices (NDVI, MSAVI, NDMI)
+
+## Overview
+This project demonstrates the extraction and visualization of vegetation
+indices (NDVI, MSAVI, NDMI) from Sentinel-2 imagery using Google Earth Engine,
+with a focus on agricultural land monitoring specificly for summer pastures.
+
+## Data
+- Sentinel-2 L2A
+- Study areas: Gakh and Yardimli mountanious regions
+- Time period: 09-2020 - 10-2020
+
+## Methodology
+- Cloud masking
+- Index calculation (NDVI, MSAVI, NDMI)
+- Export of raster outputs from Google Earth Engine
+- Visualization and interpretation
+
+## Results
+### NDVI
+![NDVI](images/ndvi.png)
+
+### MSAVI
+![MSAVI](images/msavi.png)
+
+### NDMI
+![NDMI](images/ndmi.png)
+
+## Interpretation
+- NDVI highlights general vegetation vigor
+- MSAVI reduces soil background influence in sparse vegetation
+- NDMI reflects vegetation moisture conditions
+
+## Tools
+- Google Earth Engine
+- Python / GIS software for visualization
+
+## Notes
+This repository focuses on analysis outputs and interpretation rather than
+full automation code.
+
+Normalized difference vegetation index (NDVI) mainly separates “green vs non-green,” Modified soil adjusted vegetation index (MSAVI) improves separation in sparse pasture where soil is visible, and Normalized difference moisture index (NDMI) helps distinguish truly productive biomass from “green but dry/stressed” vegetation. So using all three together did give us cleaner biomass classes and reduce confusion between bare soil, sparse grassland, and dense/moist vegetation.
