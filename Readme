@@ -19,7 +19,7 @@ with a focus on agricultural land monitoring specificly for summer pastures.
 
 ## Results
 ### NDVI
-![NDVI][def]
+![NDVI](https://github.com/KerimM-bit/sentinel2-vegetation-indices/blob/main/images/NDVI_study_areas.jpg)
 
 *Figure 1. Comparison of NDVI Values in Gakh and Yardimli, Azerbaijan (2025).*
 
@@ -33,7 +33,7 @@ NDVI patterns closely follow topography and land use: valleys and forested slope
 This spatial variability suggests NDVI is sensitive to elevation, moisture availability, and vegetation type, making it suitable for biomass and pasture-condition analysis in both regions.
 
 ### MSAVI
-![MSAVI][def2]
+![MSAVI](https://github.com/KerimM-bit/sentinel2-vegetation-indices/blob/main/images/Msavi_StudyArea.jpg)
 
 *Figure 2. Comparison of MSAVI Values in Gakh and Yardimli, Azerbaijan (2025).*
 
@@ -55,7 +55,7 @@ low-to-moderate MSAVI values, indicating sparser vegetation and greater soil/bac
 of mountain pastures.
 
 ### NDMI
-![NDMI][def3]
+![NDMI](https://github.com/KerimM-bit/sentinel2-vegetation-indices/blob/main/images/Stduy_areas_NDMI.jpg)
 
 *Figure 3. Comparison of NDMI Values in Gakh and Yardimli, Azerbaijan (2025).*
 
@@ -79,8 +79,3 @@ This repository focuses on analysis outputs and interpretation rather than
 full automation code.
 
 
-
-
-[def]: images/NDVI_study_areas.jpg
-[def2]: images/Msavi_StudyArea.jpg
-[def3]: images/Stduy_areas_NDMI.jpg   
