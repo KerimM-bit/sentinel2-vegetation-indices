@@ -6,27 +6,23 @@ The main objective was to assess changes in vegetation condition in Gakh and Yar
 
 ### MSAVI Change Distribution in Gakh 
 
-![MSAVI change in Gakh (2020–2025)][def]
+![MSAVI change in Gakh (2020–2025)](figures/msavi_change_gakh.)
 
 Due to the presence of high mountainous terrain, only areas above **1750 m** elevation were considered.
 The results indicate a noticeable decrease in MSAVI values, suggesting vegetation degradation.
 
 ### MSAVI Change Distribution in Yardimli 
 
-![MSAVI change in Yardimli (2020–2025)][def2]
+![MSAVI change in Yardimli (2020–2025)](figures/msavi_change_yardimli.png)
 
 For Yardimli, areas above **1000 m** elevation were analyzed.
 A similar degradation pattern can be observed.
 
 ### Comparison of the change in area of regions
 
-![Vegetation Condition Change Based on MSAVI (2020–2025) in Gakh and Yardimli, Azerbaijan][def3]
+![Vegetation Condition Change Based on MSAVI (2020–2025) in Gakh and Yardimli, Azerbaijan](figures/msavi_change_aoi.png)
 
 Although vegetation degradation was detected in both regions, the mean MSAVI 
 decline was lower in Yardimli than in Gakh.
 Elevation-related environmental differences may contribute to this pattern.
 
-
-[def]: figures/msavi_change_gakh.png
-[def2]: figures/msavi_change_yardimli.png
-[def3]: figures/msavi_change_aoi.png
