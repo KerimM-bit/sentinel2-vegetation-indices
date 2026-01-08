@@ -1,0 +1,32 @@
+
+## MSAVI-Based Vegetation Change Analysis (2020–2025)
+
+All 3 indices gave similar results, therefore I continued to use only MSAVI index for the change analysis.
+The main objective was to assess changes in vegetation condition in Gakh and Yardimli for the summer pastures.
+
+### Gakh Study Area
+
+![MSAVI change in Gakh (2020–2025)][def]
+
+Due to the presence of high mountainous terrain, only areas above **1750 m** elevation were considered.
+The results indicate a noticeable decrease in MSAVI values, suggesting vegetation degradation.
+
+### Yardimli Study Area
+
+![MSAVI change in Yardimli (2020–2025)][def2]
+
+For Yardimli, areas above **1000 m** elevation were analyzed.
+A similar degradation pattern can be observed.
+
+### MSAVI Change Distribution
+
+![Vegetation Condition Change Based on MSAVI (2020–2025) in Gakh and Yardimli, Azerbaijan][def3]
+
+Although vegetation degradation was detected in both regions, the mean MSAVI 
+decline was lower in Yardimli than in Gakh.
+Elevation-related environmental differences may contribute to this pattern.
+
+
+[def]: figures/msavi_change_gakh.png
+[def2]: figures/msavi_change_yardimli.png
+[def3]: figures/msavi_change_aoi.png

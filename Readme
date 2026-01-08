@@ -19,13 +19,19 @@ with a focus on agricultural land monitoring specificly for summer pastures.
 
 ## Results
 ### NDVI
-![NDVI](images/ndvi.png)
+![NDVI][def]
+
+*Figure 1. Comparison of NDVI Values in Gakh and Yardimli, Azerbaijan (2025).*
 
 ### MSAVI
-![MSAVI](images/msavi.png)
+![MSAVI][def2]
+
+*Figure 2. Comparison of MSAVI Values in Gakh and Yardimli, Azerbaijan (2025).*
 
 ### NDMI
-![NDMI](images/ndmi.png)
+![NDMI][def3]
+
+*Figure 3. Comparison of MSAVI Values in Gakh and Yardimli, Azerbaijan (2025).*
 
 ## Interpretation
 - NDVI highlights general vegetation vigor
@@ -41,3 +47,8 @@ This repository focuses on analysis outputs and interpretation rather than
 full automation code.
 
 Normalized difference vegetation index (NDVI) mainly separates “green vs non-green,” Modified soil adjusted vegetation index (MSAVI) improves separation in sparse pasture where soil is visible, and Normalized difference moisture index (NDMI) helps distinguish truly productive biomass from “green but dry/stressed” vegetation. So using all three together did give us cleaner biomass classes and reduce confusion between bare soil, sparse grassland, and dense/moist vegetation.
+
+
+[def]: images/ndvi.png
+[def2]: images/msavi.png
+[def3]: images/ndmi.png
